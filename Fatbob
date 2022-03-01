@@ -447,6 +447,19 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2510/default_ott.mpd
 #EXTINF:-1 tvg-id="553" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Discovery_Asia_v1.png" group-title="KNOWLEDGE",DISCOVERY ASIA
 http://linearjitp-playback.astro.com.my/dash-wv/linear/501/default_ott.mpd
 
+---------------------SGBackup------------------------
+
+#EXTINF:-1 tvg-id="Channel 5" group-title="MEDIACORP" tvg-logo="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png",Channel 5 #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=https://run.mocky.io/v3/316e8644-f2c1-4a8c-80b5-4cadf397f4c9 https://tglmp02.akamaized.net/out/v1/5081e069e08140c9b95f89a1659cf4dd/manifest.mpd 
+
+#EXTINF:-1 tvg-id="Channel 8" group-title="MEDIACORP" tvg-logo="https://poster.starhubgo.com/Linear_channels2/103_1920x1080_HTV.png",Channel 8 #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=https://run.mocky.io/v3/536e68ce-e1f2-493c-9095-a83932d06cdf https://tglmp02.akamaized.net/out/v1/4f6561ad194b49ae93f4e1b075afdf41/manifest.mpd 
+
+#EXTINF:-1 tvg-id="Channel U" group-title="MEDIACORP" tvg-logo="https://poster.starhubgo.com/Linear_channels2/107_1920x1080_HTV.png",Channel U #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=https://run.mocky.io/v3/0eca714c-3695-4b08-9705-2e2a62cbe1b6 https://tglmp03.akamaized.net/out/v1/1057d89ee3d94148b430b5866e3a540a/manifest.mpd 
+
+#EXTINF:-1 tvg-id="Suria" group-title="MEDIACORP" tvg-logo="https://poster.starhubgo.com/Linear_channels2/104_1920x1080_HTV.png",Suria #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=https://run.mocky.io/v3/d8ed7731-7bc7-4993-9f9d-c98ba9291b5c https://tglmp04.akamaized.net/out/v1/b200e885125f4787bd2329952ff28fa1/manifest.mpd 
+
+#EXTINF:-1 tvg-id="Vasantham" group-title="MEDIACORP" tvg-logo="https://poster.starhubgo.com/Linear_channels2/105_1920x1080_HTV.png",Vasantham #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=https://run.mocky.io/v3/2263da79-3818-41f1-9ec4-eff68fd5466c https://tglmp03.akamaized.net/out/v1/14eb6e921cae41298efaa4d9db0f2875/manifest.mpd 
+
+#EXTINF:-1 tvg-id="Oktolidays" group-title="MEDIACORP" tvg-logo="https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%272703778%27&EntityType=%27Item%27&EntityId=%27186574%27&Width=1920&Height=1080&ImageUrl=2703778.png",Oktolidays
 
 --------------------- IPTV12K -----------------------
 
